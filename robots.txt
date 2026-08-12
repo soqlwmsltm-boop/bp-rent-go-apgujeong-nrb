@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://go-apgujeong-nrb.xyz/sitemap.xml
+Sitemap: https://go-apgujeong-nrb.xyz/sitemap-pages.xml
 Sitemap: https://go-apgujeong-nrb.xyz/sitemap-index.xml
